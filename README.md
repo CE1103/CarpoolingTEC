@@ -6,17 +6,6 @@ CarpoolingTEC corresponde al _Proyecto III_ para el curso de _Algoritmos y Estru
 <img src="https://res.cloudinary.com/dek4evg4t/image/upload/v1541524633/carpoolingTEC/imagotipo.png" width="350"/>
 </p>
 
- 
-## Pre Requisitos. 
-
-```
-```
-
-## Instalación.
-
-```
-```
-
 ## Autores.
 
 * **Angelo Ortiz** - *Desarrollador* - [angelortizv](https://github.com/angelortizv)
