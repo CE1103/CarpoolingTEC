@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "471187311789",
+    "firebase_url": "https://carpoolingtec-studentapp.firebaseio.com",
+    "project_id": "carpoolingtec-studentapp",
+    "storage_bucket": "carpoolingtec-studentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471187311789:android:a2326a5b7a451fac",
+        "android_client_info": {
+          "package_name": "org.ce1103.studentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471187311789-0ibh89j3dm6mm3ble3b6cktjv2ef0dhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.ce1103.studentapp",
+            "certificate_hash": "fad6c686b33e024f344d55c258bfef1d34df3933"
+          }
+        },
+        {
+          "client_id": "471187311789-2iv2a2lk12o7t43gd5dgqqj3hur0jnoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdOgE8Mj0ZZdhPrZ3LHHsHkaTjU-lnZEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471187311789-2iv2a2lk12o7t43gd5dgqqj3hur0jnoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
