@@ -21,7 +21,7 @@ public class Service extends Application {
 		listToSortString = strList;
 		System.out.println("-------------------------------------------------------------");
 		System.out.println(listToSortString);
-//		System.out.println("Funcionó");
+//		System.out.println("Funcionó"); 
 	}
 	
 	@GET
