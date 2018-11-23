@@ -8,8 +8,8 @@ import javax.ws.rs.Path;
 //import javax.ws.rs.Produces;
 import javax.ws.rs.core.Application;
 
-@ApplicationPath("rest")
-@Path("sort")
+@ApplicationPath("users")
+@Path("test")
 public class Service extends Application {
 
 	public static String listToSortString;
